@@ -1,0 +1,273 @@
+body {
+    font-family: 'Raleway';
+    height: 100%;
+    margin: 0
+}
+.sun { 
+    color:#FCFF00;
+}
+a {color:white}
+a:hover {text-decoration: none;}
+.layer{
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(1,0,39,0.5);
+        z-index: -2;
+}
+
+.bgA, .bgB, .bgC, .bgD, .bgE, .bgF, .bgG {
+    top:0;
+    left:0;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.bgA {
+    background-image: url(/img/1s.jpeg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/1s.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/1s.jpeg', sizingMethod='scale')";
+}
+.bgB {
+    background-image: url(/img/2s.jpeg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/2s.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/2s.jpeg', sizingMethod='scale')";
+}
+.bgC {
+    background-image: url(/img/3s.jpeg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/3s.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/3s.jpeg', sizingMethod='scale')";
+}
+.bgD {
+    background-image: url(https://badulake.org/img/4s.jpeg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/4s.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/4s.jpeg', sizingMethod='scale')";
+}
+.bgE {
+    background-image: url(https://badulake.org/img/5s.jpeg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/5s.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/5s.jpeg', sizingMethod='scale')";
+}
+.bgF {
+    background-image: url(https://badulake.org/img/6s.jpeg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/6s.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/6s.jpeg', sizingMethod='scale')";
+}
+.bgG {
+    background-image: url(https://badulake.org/img/7s.jpeg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7s.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7s.jpeg', sizingMethod='scale')";
+}
+
+@media only screen and (min-width: 601px) { 
+    .bgA {
+        background-image: url(../img/1.jpeg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/1.jpeg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/1.jpeg', sizingMethod='scale')";
+    }
+    .bgB {
+        background-image: url(../img/2.jpeg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/2.jpeg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/2.jpeg', sizingMethod='scale')";
+    }
+    .bgC {
+        background-image: url(../img/3.jpeg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/3.jpeg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/3.jpeg', sizingMethod='scale')";
+    }
+    .bgD {
+        background-image: url(https://badulake.org/img/4.jpeg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/4.jpeg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/4.jpeg', sizingMethod='scale')";
+    }
+    .bgE {
+        background-image: url(https://badulake.org/img/5.jpeg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/5.jpeg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/5.jpeg', sizingMethod='scale')";
+    }
+    .bgF {
+        background-image: url(https://badulake.org/img/6.jpeg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/6.jpeg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/6.jpeg', sizingMethod='scale')";
+    }
+    .bgG {
+        background-image: url(https://badulake.org/img/7.jpeg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7.jpeg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7.jpeg', sizingMethod='scale')";
+    }
+    .button {
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width: 600px) { 
+    .button {
+        font-size: 14px;
+    }
+}
+.back404 {
+    background: url(https://badulake.org/img/404.jpeg) no-repeat center center fixed; 
+    top: 0;
+    left: 0; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/.404.jpeg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/404.jpeg', sizingMethod='scale')";
+}
+
+.container {
+    margin: 0 auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+.main {
+    margin-top: 100px;
+    text-align: center;
+}
+.logo {
+    position: fixed;
+    top: 0;
+    left: 20px;
+    z-index: 4;
+
+    border-bottom: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.logo span {
+    color: white;
+    font-size: 24px;
+    font-weight: 900;
+}
+.topBar {
+    position: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    text-align: center;
+    z-index: 2;
+}
+.line {
+    display: block;
+    width: 100%;
+    height: 4px;
+    margin: 0;
+    padding:0;
+    background-color: #FEDB75;
+}
+.whiteBar {
+    width: 100%;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    opacity: 0.94;
+}
+
+h1 {
+    font-family: 'Roboto';
+    margin: 0 8px 0 8px;
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 13px;
+}
+
+h2 {
+    margin: 13% 8px 0 8px;
+    color: white;
+    font-size: 16px;
+    font-style: italic;
+    font-weight:lighter;
+    line-height: 120%;
+}
+h3 {
+    margin: 16px 8px 0 8px;
+    color: #161944;
+    font-size: 24px;
+    line-height: 120%;
+    font-weight: 600;
+}
+h4 {
+    margin: 16px 8px 0 8px;
+    color:#161944;
+    font-size: 18px;
+    line-height: 140%;
+    font-weight: normal;
+}
+h5 {
+    margin: 16px 8px 0 20px;
+    color:#161944;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 700;
+}
+p {
+    margin: 26px 8px 0 20px;
+    color: #ebebeB;
+    font-size: 16px;
+    line-height: 140%;  
+}
+.info {
+    margin: 32px 16px 40px 16px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #f2f2f2;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+.action {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+}
+.explain {
+    text-align: left;
+    margin: 100px 16px 24px 16px;
+}
+.explainSecond {
+    text-align: left;
+    margin: 24px 8px 200px 8px;
+    padding: 8px;
+    border: 2px dashed #f2f2f2;
+    border-radius: 7px;
+}
+ .tip {
+     display: block;
+     margin:32px 8px;
+     border-left: 4px solid #f2f2f2;
+     padding: 8px;
+     font-size: 24px;
+     color: #161944;
+ }
+
+/* TIPS */
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;  
+ }
+ 
+ .card {
+    flex: 1 1 250px; 
+    flex-grow: 4;
+ }
+ 
