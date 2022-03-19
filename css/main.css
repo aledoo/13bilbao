@@ -70,19 +70,19 @@ a:hover {text-decoration: none;}
 
 @media only screen and (min-width: 601px) { 
     .bgA {
-        background-image: url(../img/1.jpeg);
-        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/1.jpeg', sizingMethod='scale');
-        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/1.jpeg', sizingMethod='scale')";
+        background-image: url(https://aledoo.github.io/13bilbao/img/1.jpeg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://aledoo.github.io/13bilbao/img/1.jpeg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://aledoo.github.io/13bilbao/img/1.jpeg', sizingMethod='scale')";
     }
     .bgB {
-        background-image: url(../img/2.jpeg);
-        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/2.jpeg', sizingMethod='scale');
-        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/2.jpeg', sizingMethod='scale')";
+        background-image: url(https://aledoo.github.io/13bilbao/img/2.jpeg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://aledoo.github.io/13bilbao/img/2.jpeg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://aledoo.github.io/13bilbao/img/2.jpeg', sizingMethod='scale')";
     }
     .bgC {
-        background-image: url(../img/3.jpeg);
-        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/3.jpeg', sizingMethod='scale');
-        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/3.jpeg', sizingMethod='scale')";
+        background-image: url(https://aledoo.github.io/13bilbao/img/3.jpeg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://aledoo.github.io/13bilbao/img/3.jpeg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://aledoo.github.io/13bilbao/img/3.jpeg', sizingMethod='scale')";
     }
     .bgD {
         background-image: url(https://badulake.org/img/4.jpeg);
