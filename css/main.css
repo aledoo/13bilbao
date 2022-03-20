@@ -46,17 +46,18 @@ h1 {
     letter-spacing: 13px;
 }
 p {
-    margin: 26px 8px 0 20px;
+    margin: 16px 8px 0 20px;
     color: #ebebeB;
     font-size: 16px;
     line-height: 140%;  
 }
-.phone {
-    display: block;
-    margin: 20px 8px 0 8px;
+.contact {
+    margin: 24px 8px 0 8px;
+    color: #fff;
 }
-.ig {
-    margin: 40px 8px 0 8px;
+.contact a {
+    display: block;
+    padding-top: 16px;
 }
 /* Ramdom pics */
 .bgA, .bgB, .bgC, .bgD, .bgE, .bgF, .bgG {
