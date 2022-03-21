@@ -39,6 +39,7 @@ a:hover {
 h1 {
     font-family: 'Roboto';
     margin: 0 8px 0 8px;
+    padding-left:13px;
     color: white;
     font-weight: 400;
     font-size: 24px;
