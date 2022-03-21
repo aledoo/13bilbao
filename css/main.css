@@ -73,19 +73,19 @@ p {
     background-size: cover;
 }
 .bgA {
-    background-image: url(https://13bilbao.com/img/1s.jpeg);
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/1s.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/1s.jpeg', sizingMethod='scale')";
+    background-image: url(https://13bilbao.com/img/1s.jpg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/1s.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/1s.jpg', sizingMethod='scale')";
 }
 .bgB {
-    background-image: url(https://13bilbao.com/img/2s.jpeg);
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/2s.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/2s.jpeg', sizingMethod='scale')";
+    background-image: url(https://13bilbao.com/img/2s.jpg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/2s.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/2s.jpg', sizingMethod='scale')";
 }
 .bgC {
-    background-image: url(https://13bilbao.com/img/3s.jpeg);
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/3s.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/3s.jpeg', sizingMethod='scale')";
+    background-image: url(https://13bilbao.com/img/3s.jpg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/3s.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/3s.jpg', sizingMethod='scale')";
 }
 .bgD {
     background-image: url(https://badulake.org/img/4s.jpeg);
@@ -110,19 +110,19 @@ p {
 
 @media only screen and (min-width: 601px) { 
     .bgA {
-        background-image: url(https://13bilbao.com/img/1.jpeg);
-        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/1.jpeg', sizingMethod='scale');
-        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/1.jpeg', sizingMethod='scale')";
+        background-image: url(https://13bilbao.com/img/1.jpg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/1.jpg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/1.jpg', sizingMethod='scale')";
     }
     .bgB {
         background-image: url(https://13bilbao.com/img/2.jpeg);
-        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/2.jpeg', sizingMethod='scale');
-        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/2.jpeg', sizingMethod='scale')";
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/2.jpg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/2.jpg', sizingMethod='scale')";
     }
     .bgC {
-        background-image: url(https://13bilbao.com/img/3.jpeg);
-        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/3.jpeg', sizingMethod='scale');
-        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/3.jpeg', sizingMethod='scale')";
+        background-image: url(https://13bilbao.com/img/3.jpg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/3.jpg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/3.jpg', sizingMethod='scale')";
     }
     .bgD {
         background-image: url(https://badulake.org/img/4.jpeg);
