@@ -115,7 +115,7 @@ p {
         -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/1.jpg', sizingMethod='scale')";
     }
     .bgB {
-        background-image: url(https://13bilbao.com/img/2.jpeg);
+        background-image: url(https://13bilbao.com/img/2.jpg);
         filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/2.jpg', sizingMethod='scale');
         -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://13bilbao.com/img/2.jpg', sizingMethod='scale')";
     }
