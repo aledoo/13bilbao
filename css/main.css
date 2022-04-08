@@ -92,6 +92,16 @@ p {
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/4s.jpg', sizingMethod='scale');
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/4s.jpg', sizingMethod='scale')";
 }
+.image-5 {
+    background-image: url(https://www.13bilbao.com/img/5s.jpg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/5s.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/5s.jpg', sizingMethod='scale')";
+}
+.image-6 {
+    background-image: url(https://www.13bilbao.com/img/6s.jpg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/6s.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/6s.jpg', sizingMethod='scale')";
+}
 
 @media only screen and (min-width: 601px) { 
     .image-1 {
@@ -113,6 +123,16 @@ p {
         background-image: url(https://www.13bilbao.com/img/4.jpg);
         filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/4.jpg', sizingMethod='scale');
         -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/4.jpg', sizingMethod='scale')";
+    }
+    .image-5 {
+        background-image: url(https://www.13bilbao.com/img/5.jpg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/5.jpg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/5.jpg', sizingMethod='scale')";
+    }
+    .image-6 {
+        background-image: url(https://www.13bilbao.com/img/6.jpg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/6.jpg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/6.jpg', sizingMethod='scale')";
     }
 }
 
