@@ -61,7 +61,7 @@ p {
     padding-top: 16px;
 }
 /* Ramdom pics */
-.bgA, .bgB, .bgC, .bgD, .bgE, .bgF, .bgG {
+.image-1, .image-2, .image-3 {
     top:0;
     left:0;
     background-repeat: no-repeat;
@@ -72,80 +72,37 @@ p {
     -o-background-size: cover;
     background-size: cover;
 }
-.bgA {
+.image-1 {
     background-image: url(https://www.13bilbao.com/img/1s.jpg);
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/1s.jpg', sizingMethod='scale');
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/1s.jpg', sizingMethod='scale')";
 }
-.bgB {
-    background-image: url(https://13bilbao.com/img/2s.jpg);
+.image-2 {
+    background-image: url(https://www.13bilbao.com/img/2s.jpg);
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/2s.jpg', sizingMethod='scale');
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/2s.jpg', sizingMethod='scale')";
 }
-.bgC {
+.image-3 {
     background-image: url(https://www.13bilbao.com/img/3s.jpg);
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/3s.jpg', sizingMethod='scale');
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/3s.jpg', sizingMethod='scale')";
 }
-.bgD {
-    background-image: url(https://badulake.org/img/4s.jpeg);
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/4s.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/4s.jpeg', sizingMethod='scale')";
-}
-.bgE {
-    background-image: url(https://badulake.org/img/5s.jpeg);
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/5s.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/5s.jpeg', sizingMethod='scale')";
-}
-.bgF {
-    background-image: url(https://badulake.org/img/6s.jpeg);
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/6s.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/6s.jpeg', sizingMethod='scale')";
-}
-.bgG {
-    background-image: url(https://badulake.org/img/7s.jpeg);
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7s.jpeg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7s.jpeg', sizingMethod='scale')";
-}
 
 @media only screen and (min-width: 601px) { 
-    .bgA {
+    .image-1 {
         background-image: url(https://www.13bilbao.com/img/1.jpg);
         filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/1.jpg', sizingMethod='scale');
         -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/1.jpg', sizingMethod='scale')";
     }
-    .bgB {
+    .image-2 {
         background-image: url(https://www.13bilbao.com/img/2.jpg);
         filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/2.jpg', sizingMethod='scale');
         -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/2.jpg', sizingMethod='scale')";
     }
-    .bgC {
+    .image-3 {
         background-image: url(https://www.13bilbao.com/img/3.jpg);
         filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/3.jpg', sizingMethod='scale');
         -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/3.jpg', sizingMethod='scale')";
-    }
-    .bgD {
-        background-image: url(https://badulake.org/img/4.jpeg);
-        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/4.jpeg', sizingMethod='scale');
-        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/4.jpeg', sizingMethod='scale')";
-    }
-    .bgE {
-        background-image: url(https://badulake.org/img/5.jpeg);
-        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/5.jpeg', sizingMethod='scale');
-        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/5.jpeg', sizingMethod='scale')";
-    }
-    .bgF {
-        background-image: url(https://badulake.org/img/6.jpeg);
-        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/6.jpeg', sizingMethod='scale');
-        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/6.jpeg', sizingMethod='scale')";
-    }
-    .bgG {
-        background-image: url(https://badulake.org/img/7.jpeg);
-        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7.jpeg', sizingMethod='scale');
-        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://badulake.org/img/7.jpeg', sizingMethod='scale')";
-    }
-    .button {
-        font-size: 16px;
     }
 }
 
