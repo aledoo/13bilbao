@@ -61,7 +61,7 @@ p {
     padding-top: 16px;
 }
 /* Ramdom pics */
-.image-1, .image-2, .image-3 {
+.image-1, .image-2, .image-3, .image-4, .image-5, .image-6, .image-7, .image-8, .image-9, .image-10, .image-11 {
     top:0;
     left:0;
     background-repeat: no-repeat;
@@ -102,6 +102,31 @@ p {
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/6s.jpg', sizingMethod='scale');
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/6s.jpg', sizingMethod='scale')";
 }
+.image-7 {
+    background-image: url(https://www.13bilbao.com/img/7s.jpg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/7s.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/7s.jpg', sizingMethod='scale')";
+}
+.image-8 {
+    background-image: url(https://www.13bilbao.com/img/8s.jpg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/8s.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/8s.jpg', sizingMethod='scale')";
+}
+.image-9 {
+    background-image: url(https://www.13bilbao.com/img/9s.jpg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/9s.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/9s.jpg', sizingMethod='scale')";
+}
+.image-10 {
+    background-image: url(https://www.13bilbao.com/img/10s.jpg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/10s.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/10s.jpg', sizingMethod='scale')";
+}
+.image-11 {
+    background-image: url(https://www.13bilbao.com/img/11s.jpg);
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/11s.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/11s.jpg', sizingMethod='scale')";
+}
 
 @media only screen and (min-width: 601px) { 
     .image-1 {
@@ -133,6 +158,31 @@ p {
         background-image: url(https://www.13bilbao.com/img/6.jpg);
         filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/6.jpg', sizingMethod='scale');
         -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/6.jpg', sizingMethod='scale')";
+    }
+    .image-7 {
+        background-image: url(https://www.13bilbao.com/img/7.jpg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/7.jpg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/7.jpg', sizingMethod='scale')";
+    }
+    .image-8 {
+        background-image: url(https://www.13bilbao.com/img/8.jpg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/8.jpg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/8.jpg', sizingMethod='scale')";
+    }
+    .image-9 {
+        background-image: url(https://www.13bilbao.com/img/9.jpg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/9.jpg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/9.jpg', sizingMethod='scale')";
+    }
+    .image-10 {
+        background-image: url(https://www.13bilbao.com/img/10.jpg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/10.jpg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/10.jpg', sizingMethod='scale')";
+    }
+    .image-11 {
+        background-image: url(https://www.13bilbao.com/img/11.jpg);
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/11.jpg', sizingMethod='scale');
+        -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://www.13bilbao.com/img/11.jpg', sizingMethod='scale')";
     }
 }
 
