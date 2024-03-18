@@ -2,10 +2,10 @@ body {
     font-family: 'Raleway';
     height: 100%;
     margin: 0;
-    background-color: #B66443;
+    background-color: #000000;
 }
 .sun { 
-    color:#FCFF00;
+    color:#000000;
 }
 a {
     color:white; 
@@ -22,7 +22,7 @@ a:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(182,100,67,0.5);
+    background-color: rgba(0,0,0,0.5);
     z-index: -2;
 }
 .container {
